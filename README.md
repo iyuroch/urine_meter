@@ -18,6 +18,7 @@ the state of renal system, which can be affected by different types of medicine 
 Fluid intake is solved in postoperative with accurate management of intravenous fluid therapy, but extraction is done with either 
 uroflowmetry or per-hour weight or/and volume measurement with help of urine drainage bags.
 </br>
+
 ### Proposal
 To solve this problem we propose coninuous weighting of urine drainage bags with specialized device. Datagrams can further be used
 to find correlations between flood intake and extraction to indicate problems early. Also having data on medication used we can see 
@@ -25,5 +26,6 @@ effects of medication to further estimate effectiveness or need. </br>
 This does not limit potential field of such device - it also can be used to find common patterns of urination in different type of
  renal and heart system desease.
  </br>
+ 
  ### Idea usage
  This is public disclosure of this idea, for commercial use please contact an author.
